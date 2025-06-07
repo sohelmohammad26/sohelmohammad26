@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm [Sohel] 👋
 
-<!--
-**sohelmohammad26/sohelmohammad26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Data Analyst** passionate about turning data into actionable insights.  
+Currently learning: Python, Pandas, SQL, and Data Visualization tools.
 
-Here are some ideas to get you started:
+## 🔧 Tools & Technologies
+- Programming: Python, SQL
+- Libraries: Pandas, Matplotlib, Seaborn, NumPy
+- Visualization: Tableau, Power BI (learning)
+- Others: Excel, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 What I'm working on
+- Building beginner-friendly data analysis projects
+- Learning data storytelling and dashboards
+
+## 📫 Connect with me
+(https://www.linkedin.com/in/sohel-rana-a42b77126/) | [Email](maxsohel26@email.com)
